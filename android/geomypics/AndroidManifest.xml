@@ -12,7 +12,8 @@
 		</activity>
 
 		<activity android:name=".activities.GeoMapActivity"
-			android:permission="android.permission.INTERNET">
+			android:permission="android.permission.INTERNET"
+			android:theme="@android:style/Theme.NoTitleBar">
 		</activity>
 	<uses-library android:name="com.google.android.maps"></uses-library>
 </application>
