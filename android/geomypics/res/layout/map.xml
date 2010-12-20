@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.google.android.maps.MapView
+        android:id="@+id/geomap_map_id"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:clickable="true"
+        android:apiKey="06x0xjijhUrwHSSu2N0IhgduB6qM0Wk393YCZ1g"
+    />
+    <!--
+        android:apiKey="06x0xjijhUrzCk5ukv_nR5ruK8OER3Vuf-NANlg"
+     -->
+
+</RelativeLayout>

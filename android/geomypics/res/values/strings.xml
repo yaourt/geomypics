@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">GeoMyPics</string>
+    <string name="camera_config_title_text">Camera configuration</string>
+    <string name="camera_config_explanations1_text">This application needs that you sync your camera date and time.</string>
+    <string name="camera_config_explanations2_text">Please set your camera date and time according to the information below :</string>
+    <string name="camera_config_explanations_end_text">
+When it is done, you can go ahead and click below.
+    </string>
+    <string name="camera_config_done_text">Done !</string>
+    <string name="camera_config_later_text">Later</string>
+</resources>

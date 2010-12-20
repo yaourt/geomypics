@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoMyPics</string>
+    <string name="camera_config_title_text">Configuration de l\'appareil photo</string>
+    <string name="camera_config_explanations1_text">Cette application nécessite que la date et l\'heure de votre appareil photo soient synchronisées avec celles du téléphone.</string>
+    <string name="camera_config_explanations2_text">Veuillez configurer la date et l\'heure de l\'appareil photo en fonction des informations suivantes :</string>
+    <string name="camera_config_explanations_end_text">Une fois ceci fait, vous pouvez cliquer ci-dessous.</string>
+    <string name="camera_config_done_text">Fait !</string>
+    <string name="camera_config_later_text">Plus tard</string>
+</resources>
